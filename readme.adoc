@@ -1,0 +1,3 @@
+=== FSVM Vakıf Üniversitesi Data Science Workshop
+
+FSM Vakıf Üniversitesinde 7 Mart tarihinde gerçekleştirdiğimiz Data Science 101 workshop bünyesinde işlediğimiz konuları içermektedir.
